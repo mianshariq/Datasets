@@ -1,0 +1,52 @@
+Abbreviation,One,Row,Space,State
+AK,1,1,1,Alaska
+ME,1,1,12,Maine
+VT,1,2,11,Vermont
+NH,1,2,12,New Hampshire
+WA,1,3,2,Washington
+ID,1,3,3,Idaho
+MT,1,3,4,Montana
+ND,1,3,5,North Dakota
+MN,1,3,6,Minnesota
+IL,1,3,7,Illinois
+WI,1,3,8,Wisconsin
+MI,1,3,9,Michigan
+NY,1,3,10,New York
+RI,1,3,11,Rhode Island
+MA,1,3,12,Massachusetts
+OR,1,4,2,Oregon
+NV,1,4,3,Nevada
+WY,1,4,4,Wyoming
+SD,1,4,5,South Dakota
+IA,1,4,6,Iowa
+IN,1,4,7,Indiana
+OH,1,4,8,Ohio
+PA,1,4,9,Pennsylvania
+NJ,1,4,10,New Jersey
+CT,1,4,11,Connecticut
+CA,1,5,2,California
+UT,1,5,3,Utah
+CO,1,5,4,Colorado
+NE,1,5,5,Nebraska
+MO,1,5,6,Missouri
+KY,1,5,7,Kentucky
+WV,1,5,8,West Virginia
+VA,1,5,9,Virginia
+MD,1,5,10,Maryland
+DE,1,5,11,Delaware
+AZ,1,6,3,Arizona
+NM,1,6,4,New Mexico
+KS,1,6,5,Kansas
+AR,1,6,6,Arkansas
+TN,1,6,7,Tennessee
+NC,1,6,8,North Carolina
+SC,1,6,9,South Carolina
+DC,1,6,10,District of Columbia
+OK,1,7,5,Oklahoma
+LA,1,7,6,Louisiana
+MS,1,7,7,Mississippi
+AL,1,7,8,Alabama
+GA,1,7,9,Georgia
+HI,1,8,1,Hawaii
+TX,1,8,5,Texas
+FL,1,8,10,Florida
